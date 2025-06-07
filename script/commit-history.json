@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "498f1e37527b789cf057f817447d75d8cbc0a039",
     "author": "Alejandro Bustamante",
     "commit": {
       "date": "2025-06-07T15:42:01.000Z",
       "message": "4",
-      "url": "https://github.com/AleBustamante/refresh-time/commit/HEAD"
+      "url": "https://github.com/AleBustamante/refresh-time/commit/498f1e37527b789cf057f817447d75d8cbc0a039"
     },
     "stats": {
       "total": 3,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Bustamante",
+    "commit": {
+      "date": "2025-06-07T16:14:46.000Z",
+      "message": "5",
+      "url": "https://github.com/AleBustamante/refresh-time/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-06-07"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
