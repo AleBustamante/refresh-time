@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Bustamante",
+    "commit": {
+      "date": "2025-06-07T15:38:02.000Z",
+      "message": "2",
+      "url": "https://github.com/AleBustamante/refresh-time/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-06-07"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
